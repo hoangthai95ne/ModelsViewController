@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>company</key>
+		<string>Mercedes</string>
+		<key>name</key>
+		<string>Mercedes CLS 63</string>
+		<key>price</key>
+		<string>$33000</string>
+		<key>version</key>
+		<string>2015</string>
+		<key>photo</key>
+		<string>mercedes1.jpg</string>
+	</dict>
+	<dict>
+		<key>company</key>
+		<string>Kawasaki</string>
+		<key>name</key>
+		<string>Kawasaki z300</string>
+		<key>price</key>
+		<string>$20000</string>
+		<key>version</key>
+		<string>2015</string>
+		<key>photo</key>
+		<string>kawasaki1.jpg</string>
+	</dict>
+    <dict>
+        <key>company</key>
+        <string>Kawasaki</string>
+        <key>name</key>
+        <string>Kawasaki z1000i</string>
+        <key>price</key>
+        <string>$24500</string>
+        <key>version</key>
+        <string>2015</string>
+        <key>photo</key>
+        <string>kawasaki2.jpg</string>
+    </dict>
+    <dict>
+        <key>company</key>
+        <string>Kawasaki</string>
+        <key>name</key>
+        <string>Kawasaki Ninja 300</string>
+        <key>price</key>
+        <string>$16700</string>
+        <key>version</key>
+        <string>2015</string>
+        <key>photo</key>
+        <string>kawasaki3.jpg</string>
+    </dict>
+    <dict>
+        <key>company</key>
+        <string>Kawasaki</string>
+        <key>name</key>
+        <string>Kawasaki z3000i</string>
+        <key>price</key>
+        <string>$30000</string>
+        <key>version</key>
+        <string>2015</string>
+        <key>photo</key>
+        <string>kawasaki4.jpg</string>
+    </dict>
+	<dict>
+		<key>company</key>
+		<string>Honda</string>
+		<key>name</key>
+		<string>Honda HR-V</string>
+		<key>price</key>
+		<string>$20690</string>
+		<key>version</key>
+		<string>2016</string>
+		<key>photo</key>
+		<string>honda1.jpg</string>
+	</dict>
+    
+    <dict>
+        <key>company</key>
+        <string>Honda</string>
+        <key>name</key>
+        <string>Honda CR-V</string>
+        <key>price</key>
+        <string>$26190</string>
+        <key>version</key>
+        <string>2016</string>
+        <key>photo</key>
+        <string>honda2.jpg</string>
+    </dict>
+    
+    <dict>
+        <key>company</key>
+        <string>Honda</string>
+        <key>name</key>
+        <string>Honda PILOT</string>
+        <key>price</key>
+        <string>$35490</string>
+        <key>version</key>
+        <string>2016</string>
+        <key>photo</key>
+        <string>honda3.jpg</string>
+    </dict>
+    
+    <dict>
+        <key>company</key>
+        <string>Honda</string>
+        <key>name</key>
+        <string>Honda ODYSSEY</string>
+        <key>price</key>
+        <string>$30690</string>
+        <key>version</key>
+        <string>2016</string>
+        <key>photo</key>
+        <string>honda4.jpg</string>
+    </dict>
+    
+    <dict>
+        <key>company</key>
+        <string>Honda</string>
+        <key>name</key>
+        <string>Honda CIVIC HYBIRD</string>
+        <key>price</key>
+        <string>$27700</string>
+        <key>version</key>
+        <string>2016</string>
+        <key>photo</key>
+        <string>honda5.jpg</string>
+    </dict>
+    
+    <dict>
+        <key>company</key>
+        <string>Honda</string>
+        <key>name</key>
+        <string>Honda ACCORD HYBIRD</string>
+        <key>price</key>
+        <string>$29900</string>
+        <key>version</key>
+        <string>2016</string>
+        <key>photo</key>
+        <string>honda6.jpg</string>
+    </dict>
+    
+	<dict>
+		<key>company</key>
+		<string>Ducati</string>
+		<key>name</key>
+		<string>Ducati Monster</string>
+		<key>price</key>
+		<string>$15000</string>
+		<key>version</key>
+		<string>2014</string>
+		<key>photo</key>
+		<string>ducati1.jpg</string>
+	</dict>
+    
+    <dict>
+        <key>company</key>
+        <string>Ducati</string>
+        <key>name</key>
+        <string>Ducati 848 Black</string>
+        <key>price</key>
+        <string>$30760</string>
+        <key>version</key>
+        <string>2014</string>
+        <key>photo</key>
+        <string>ducati2.jpg</string>
+    </dict>
+    
+    <dict>
+        <key>company</key>
+        <string>Ducati</string>
+        <key>name</key>
+        <string>Ducati 1198 S CORSE</string>
+        <key>price</key>
+        <string>$59362</string>
+        <key>version</key>
+        <string>2014</string>
+        <key>photo</key>
+        <string>ducati3.jpg</string>
+    </dict>
+    
+    <dict>
+        <key>company</key>
+        <string>Ducati</string>
+        <key>name</key>
+        <string>Hypermontard EVO 1000 SP</string>
+        <key>price</key>
+        <string>$33904</string>
+        <key>version</key>
+        <string>2014</string>
+        <key>photo</key>
+        <string>ducati4.jpg</string>
+    </dict>
+    
+    <dict>
+        <key>company</key>
+        <string>Ducati</string>
+        <key>name</key>
+        <string>Ducati Street Fighter S</string>
+        <key>price</key>
+        <string>$33047</string>
+        <key>version</key>
+        <string>2014</string>
+        <key>photo</key>
+        <string>ducati5.jpg</string>
+    </dict>
+    
+    <dict>
+        <key>company</key>
+        <string>Ducati</string>
+        <key>name</key>
+        <string>Ducati 696+</string>
+        <key>price</key>
+        <string>$23090</string>
+        <key>version</key>
+        <string>2014</string>
+        <key>photo</key>
+        <string>ducati6.jpg</string>
+    </dict>
+    
+	<dict>
+		<key>company</key>
+		<string>Porsche</string>
+		<key>name</key>
+		<string>Porsche 911</string>
+		<key>price</key>
+		<string>$120000</string>
+		<key>version</key>
+		<string>2014</string>
+		<key>photo</key>
+		<string>porsche1.jpg</string>
+	</dict>
+    
+    <dict>
+        <key>company</key>
+        <string>Porsche</string>
+        <key>name</key>
+        <string>Porsche Cayman GTs</string>
+        <key>price</key>
+        <string>$75200</string>
+        <key>version</key>
+        <string>2014</string>
+        <key>photo</key>
+        <string>porsche2.jpg</string>
+    </dict>
+    
+    <dict>
+        <key>company</key>
+        <string>Porsche</string>
+        <key>name</key>
+        <string>Porsche 718 Boxster S</string>
+        <key>price</key>
+        <string>$68400</string>
+        <key>version</key>
+        <string>2014</string>
+        <key>photo</key>
+        <string>porsche3.jpg</string>
+    </dict>
+    
+    <dict>
+        <key>company</key>
+        <string>Porsche</string>
+        <key>name</key>
+        <string>Porsche Panamera S</string>
+        <key>price</key>
+        <string>$93400</string>
+        <key>version</key>
+        <string>2014</string>
+        <key>photo</key>
+        <string>porsche4.jpg</string>
+    </dict>
+    
+    <dict>
+        <key>company</key>
+        <string>Porsche</string>
+        <key>name</key>
+        <string>Porsche Cayenne Turbo S</string>
+        <key>price</key>
+        <string>$157400</string>
+        <key>version</key>
+        <string>2014</string>
+        <key>photo</key>
+        <string>porsche5.jpg</string>
+    </dict>
+    
+	<dict>
+		<key>company</key>
+		<string>Mercedes</string>
+		<key>name</key>
+		<string>Mercedes E400 AMG</string>
+		<key>price</key>
+		<string>$175000</string>
+		<key>version</key>
+		<string>2015</string>
+		<key>photo</key>
+		<string>mercedes2.jpg</string>
+	</dict>
+	<dict>
+		<key>company</key>
+		<string>Porsche</string>
+		<key>name</key>
+		<string>Porsche Marcan</string>
+		<key>price</key>
+		<string>$200000</string>
+		<key>version</key>
+		<string>2016</string>
+		<key>photo</key>
+		<string>porsche2.jpg</string>
+	</dict>
+	<dict>
+		<key>company</key>
+		<string>Ducati</string>
+		<key>name</key>
+		<string>Ducati Veyron</string>
+		<key>price</key>
+		<string>$30000</string>
+		<key>version</key>
+		<string>2013</string>
+		<key>photo</key>
+		<string>ducati2.jpg</string>
+	</dict>
+	<dict>
+		<key>company</key>
+		<string>Mercedes</string>
+		<key>name</key>
+		<string>Mercedes S500 AMG</string>
+		<key>price</key>
+		<string>$500000</string>
+		<key>version</key>
+		<string>2016</string>
+		<key>photo</key>
+		<string>mercedes3.jpg</string>
+	</dict>
+    <dict>
+        <key>company</key>
+        <string>Mercedes</string>
+        <key>name</key>
+        <string>C200</string>
+        <key>price</key>
+        <string>$33000</string>
+        <key>version</key>
+        <string>2015</string>
+        <key>photo</key>
+        <string>mercedes4.jpg</string>
+    </dict>
+    <dict>
+        <key>company</key>
+        <string>Mercedes</string>
+        <key>name</key>
+        <string>Mercedes CLS 400</string>
+        <key>price</key>
+        <string>$330000</string>
+        <key>version</key>
+        <string>2016</string>
+        <key>photo</key>
+        <string>mercedes5.jpg</string>
+    </dict>
+    <dict>
+        <key>company</key>
+        <string>Mercedes</string>
+        <key>name</key>
+        <string>Mercedes GLK 250</string>
+        <key>price</key>
+        <string>$215000</string>
+        <key>version</key>
+        <string>2015</string>
+        <key>photo</key>
+        <string>mercedes6.jpg</string>
+    </dict>
+
+</array>
+</plist>

@@ -7,14 +7,57 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AB3C7B211CA8CF9E0095AE54 /* DetailsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AB3C7B201CA8CF9E0095AE54 /* DetailsViewController.m */; };
 		AB90421E1CA367D900F74791 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = AB90421D1CA367D900F74791 /* main.m */; };
 		AB9042211CA367D900F74791 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = AB9042201CA367D900F74791 /* AppDelegate.m */; };
-		AB9042241CA367D900F74791 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AB9042231CA367D900F74791 /* ViewController.m */; };
 		AB9042271CA367D900F74791 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AB9042251CA367D900F74791 /* Main.storyboard */; };
 		AB9042291CA367D900F74791 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB9042281CA367D900F74791 /* Assets.xcassets */; };
 		AB90422C1CA367D900F74791 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AB90422A1CA367D900F74791 /* LaunchScreen.storyboard */; };
 		AB9042371CA367D900F74791 /* showRoomsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = AB9042361CA367D900F74791 /* showRoomsTests.m */; };
 		AB9042421CA367D900F74791 /* showRoomsUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = AB9042411CA367D900F74791 /* showRoomsUITests.m */; };
+		AB9042771CA3680200F74791 /* carIcon25x25.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9042501CA3680200F74791 /* carIcon25x25.png */; };
+		AB9042781CA3680200F74791 /* ducati1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AB9042511CA3680200F74791 /* ducati1.jpg */; };
+		AB9042791CA3680200F74791 /* ducati2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AB9042521CA3680200F74791 /* ducati2.jpg */; };
+		AB90427A1CA3680200F74791 /* ducati3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AB9042531CA3680200F74791 /* ducati3.jpg */; };
+		AB90427B1CA3680200F74791 /* ducati4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AB9042541CA3680200F74791 /* ducati4.jpg */; };
+		AB90427C1CA3680200F74791 /* ducati5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AB9042551CA3680200F74791 /* ducati5.jpg */; };
+		AB90427D1CA3680200F74791 /* ducati6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AB9042561CA3680200F74791 /* ducati6.jpg */; };
+		AB90427E1CA3680200F74791 /* DucatiLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9042571CA3680200F74791 /* DucatiLogo.png */; };
+		AB90427F1CA3680200F74791 /* DucatiLogo25x25.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9042581CA3680200F74791 /* DucatiLogo25x25.png */; };
+		AB9042801CA3680200F74791 /* honda1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AB9042591CA3680200F74791 /* honda1.jpg */; };
+		AB9042811CA3680200F74791 /* honda2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AB90425A1CA3680200F74791 /* honda2.jpg */; };
+		AB9042821CA3680200F74791 /* honda3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AB90425B1CA3680200F74791 /* honda3.jpg */; };
+		AB9042831CA3680200F74791 /* honda4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AB90425C1CA3680200F74791 /* honda4.jpg */; };
+		AB9042841CA3680200F74791 /* honda5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AB90425D1CA3680200F74791 /* honda5.jpg */; };
+		AB9042851CA3680200F74791 /* honda6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AB90425E1CA3680200F74791 /* honda6.jpg */; };
+		AB9042861CA3680200F74791 /* kawasaki1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AB90425F1CA3680200F74791 /* kawasaki1.jpg */; };
+		AB9042871CA3680200F74791 /* kawasaki2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AB9042601CA3680200F74791 /* kawasaki2.jpg */; };
+		AB9042881CA3680200F74791 /* kawasaki3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AB9042611CA3680200F74791 /* kawasaki3.jpg */; };
+		AB9042891CA3680200F74791 /* kawasaki4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AB9042621CA3680200F74791 /* kawasaki4.jpg */; };
+		AB90428A1CA3680200F74791 /* Lamborghini.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9042631CA3680200F74791 /* Lamborghini.png */; };
+		AB90428B1CA3680200F74791 /* LamborghiniLogo25x25.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9042641CA3680200F74791 /* LamborghiniLogo25x25.png */; };
+		AB90428C1CA3680200F74791 /* mercedes1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AB9042651CA3680200F74791 /* mercedes1.jpg */; };
+		AB90428D1CA3680200F74791 /* mercedes2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AB9042661CA3680200F74791 /* mercedes2.jpg */; };
+		AB90428E1CA3680200F74791 /* mercedes3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AB9042671CA3680200F74791 /* mercedes3.jpg */; };
+		AB90428F1CA3680200F74791 /* mercedes4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AB9042681CA3680200F74791 /* mercedes4.jpg */; };
+		AB9042901CA3680200F74791 /* mercedes5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AB9042691CA3680200F74791 /* mercedes5.jpg */; };
+		AB9042911CA3680200F74791 /* mercedes6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AB90426A1CA3680200F74791 /* mercedes6.jpg */; };
+		AB9042921CA3680200F74791 /* porsche1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AB90426B1CA3680200F74791 /* porsche1.jpg */; };
+		AB9042931CA3680200F74791 /* porsche2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AB90426C1CA3680200F74791 /* porsche2.jpg */; };
+		AB9042941CA3680200F74791 /* porsche3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AB90426D1CA3680200F74791 /* porsche3.jpg */; };
+		AB9042951CA3680200F74791 /* porsche4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AB90426E1CA3680200F74791 /* porsche4.jpg */; };
+		AB9042961CA3680200F74791 /* porsche5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AB90426F1CA3680200F74791 /* porsche5.jpg */; };
+		AB9042971CA3680200F74791 /* VolkswagenLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9042701CA3680200F74791 /* VolkswagenLogo.png */; };
+		AB9042981CA3680200F74791 /* VolkswagenLogo25x25.png in Resources */ = {isa = PBXBuildFile; fileRef = AB9042711CA3680200F74791 /* VolkswagenLogo25x25.png */; };
+		AB9042991CA3680200F74791 /* yahama1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AB9042721CA3680200F74791 /* yahama1.jpg */; };
+		AB90429A1CA3680200F74791 /* yahama2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AB9042731CA3680200F74791 /* yahama2.jpg */; };
+		AB90429B1CA3680200F74791 /* yahama3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AB9042741CA3680200F74791 /* yahama3.jpg */; };
+		AB90429C1CA3680200F74791 /* yahama4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AB9042751CA3680200F74791 /* yahama4.jpg */; };
+		AB90429D1CA3680200F74791 /* yahama5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AB9042761CA3680200F74791 /* yahama5.jpg */; };
+		AB9042A21CA368BF00F74791 /* Object.m in Sources */ = {isa = PBXBuildFile; fileRef = AB9042A11CA368BF00F74791 /* Object.m */; };
+		AB9042A41CA368D400F74791 /* DataObject.plist in Resources */ = {isa = PBXBuildFile; fileRef = AB9042A31CA368D400F74791 /* DataObject.plist */; };
+		AB9042A71CA36AA900F74791 /* DataManager.m in Sources */ = {isa = PBXBuildFile; fileRef = AB9042A61CA36AA900F74791 /* DataManager.m */; };
+		AB9042AB1CA3737900F74791 /* CarsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AB9042AA1CA3737900F74791 /* CarsViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,12 +78,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		AB3C7B1F1CA8CF9E0095AE54 /* DetailsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailsViewController.h; sourceTree = "<group>"; };
+		AB3C7B201CA8CF9E0095AE54 /* DetailsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailsViewController.m; sourceTree = "<group>"; };
 		AB9042191CA367D900F74791 /* showRooms.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = showRooms.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AB90421D1CA367D900F74791 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		AB90421F1CA367D900F74791 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		AB9042201CA367D900F74791 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		AB9042221CA367D900F74791 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		AB9042231CA367D900F74791 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		AB9042261CA367D900F74791 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		AB9042281CA367D900F74791 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AB90422B1CA367D900F74791 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -51,6 +94,52 @@
 		AB90423D1CA367D900F74791 /* showRoomsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = showRoomsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AB9042411CA367D900F74791 /* showRoomsUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = showRoomsUITests.m; sourceTree = "<group>"; };
 		AB9042431CA367D900F74791 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AB9042501CA3680200F74791 /* carIcon25x25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = carIcon25x25.png; sourceTree = "<group>"; };
+		AB9042511CA3680200F74791 /* ducati1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ducati1.jpg; sourceTree = "<group>"; };
+		AB9042521CA3680200F74791 /* ducati2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ducati2.jpg; sourceTree = "<group>"; };
+		AB9042531CA3680200F74791 /* ducati3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ducati3.jpg; sourceTree = "<group>"; };
+		AB9042541CA3680200F74791 /* ducati4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ducati4.jpg; sourceTree = "<group>"; };
+		AB9042551CA3680200F74791 /* ducati5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ducati5.jpg; sourceTree = "<group>"; };
+		AB9042561CA3680200F74791 /* ducati6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ducati6.jpg; sourceTree = "<group>"; };
+		AB9042571CA3680200F74791 /* DucatiLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = DucatiLogo.png; sourceTree = "<group>"; };
+		AB9042581CA3680200F74791 /* DucatiLogo25x25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = DucatiLogo25x25.png; sourceTree = "<group>"; };
+		AB9042591CA3680200F74791 /* honda1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = honda1.jpg; sourceTree = "<group>"; };
+		AB90425A1CA3680200F74791 /* honda2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = honda2.jpg; sourceTree = "<group>"; };
+		AB90425B1CA3680200F74791 /* honda3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = honda3.jpg; sourceTree = "<group>"; };
+		AB90425C1CA3680200F74791 /* honda4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = honda4.jpg; sourceTree = "<group>"; };
+		AB90425D1CA3680200F74791 /* honda5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = honda5.jpg; sourceTree = "<group>"; };
+		AB90425E1CA3680200F74791 /* honda6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = honda6.jpg; sourceTree = "<group>"; };
+		AB90425F1CA3680200F74791 /* kawasaki1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kawasaki1.jpg; sourceTree = "<group>"; };
+		AB9042601CA3680200F74791 /* kawasaki2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kawasaki2.jpg; sourceTree = "<group>"; };
+		AB9042611CA3680200F74791 /* kawasaki3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kawasaki3.jpg; sourceTree = "<group>"; };
+		AB9042621CA3680200F74791 /* kawasaki4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kawasaki4.jpg; sourceTree = "<group>"; };
+		AB9042631CA3680200F74791 /* Lamborghini.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Lamborghini.png; sourceTree = "<group>"; };
+		AB9042641CA3680200F74791 /* LamborghiniLogo25x25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LamborghiniLogo25x25.png; sourceTree = "<group>"; };
+		AB9042651CA3680200F74791 /* mercedes1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mercedes1.jpg; sourceTree = "<group>"; };
+		AB9042661CA3680200F74791 /* mercedes2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mercedes2.jpg; sourceTree = "<group>"; };
+		AB9042671CA3680200F74791 /* mercedes3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mercedes3.jpg; sourceTree = "<group>"; };
+		AB9042681CA3680200F74791 /* mercedes4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mercedes4.jpg; sourceTree = "<group>"; };
+		AB9042691CA3680200F74791 /* mercedes5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mercedes5.jpg; sourceTree = "<group>"; };
+		AB90426A1CA3680200F74791 /* mercedes6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mercedes6.jpg; sourceTree = "<group>"; };
+		AB90426B1CA3680200F74791 /* porsche1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = porsche1.jpg; sourceTree = "<group>"; };
+		AB90426C1CA3680200F74791 /* porsche2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = porsche2.jpg; sourceTree = "<group>"; };
+		AB90426D1CA3680200F74791 /* porsche3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = porsche3.jpg; sourceTree = "<group>"; };
+		AB90426E1CA3680200F74791 /* porsche4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = porsche4.jpg; sourceTree = "<group>"; };
+		AB90426F1CA3680200F74791 /* porsche5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = porsche5.jpg; sourceTree = "<group>"; };
+		AB9042701CA3680200F74791 /* VolkswagenLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = VolkswagenLogo.png; sourceTree = "<group>"; };
+		AB9042711CA3680200F74791 /* VolkswagenLogo25x25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = VolkswagenLogo25x25.png; sourceTree = "<group>"; };
+		AB9042721CA3680200F74791 /* yahama1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = yahama1.jpg; sourceTree = "<group>"; };
+		AB9042731CA3680200F74791 /* yahama2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = yahama2.jpg; sourceTree = "<group>"; };
+		AB9042741CA3680200F74791 /* yahama3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = yahama3.jpg; sourceTree = "<group>"; };
+		AB9042751CA3680200F74791 /* yahama4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = yahama4.jpg; sourceTree = "<group>"; };
+		AB9042761CA3680200F74791 /* yahama5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = yahama5.jpg; sourceTree = "<group>"; };
+		AB9042A01CA368BF00F74791 /* Object.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Object.h; sourceTree = "<group>"; };
+		AB9042A11CA368BF00F74791 /* Object.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Object.m; sourceTree = "<group>"; };
+		AB9042A31CA368D400F74791 /* DataObject.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = DataObject.plist; sourceTree = "<group>"; };
+		AB9042A51CA36AA900F74791 /* DataManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DataManager.h; sourceTree = "<group>"; };
+		AB9042A61CA36AA900F74791 /* DataManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DataManager.m; sourceTree = "<group>"; };
+		AB9042A91CA3737900F74791 /* CarsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CarsViewController.h; sourceTree = "<group>"; };
+		AB9042AA1CA3737900F74791 /* CarsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CarsViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,12 +192,9 @@
 			children = (
 				AB90421F1CA367D900F74791 /* AppDelegate.h */,
 				AB9042201CA367D900F74791 /* AppDelegate.m */,
-				AB9042221CA367D900F74791 /* ViewController.h */,
-				AB9042231CA367D900F74791 /* ViewController.m */,
-				AB9042251CA367D900F74791 /* Main.storyboard */,
-				AB9042281CA367D900F74791 /* Assets.xcassets */,
-				AB90422A1CA367D900F74791 /* LaunchScreen.storyboard */,
-				AB90422D1CA367D900F74791 /* Info.plist */,
+				AB90429F1CA3689100F74791 /* ViewController */,
+				AB90429E1CA3688A00F74791 /* Models */,
+				AB90424F1CA3680200F74791 /* photos */,
 				AB90421C1CA367D900F74791 /* Supporting Files */,
 			);
 			path = showRooms;
@@ -117,6 +203,9 @@
 		AB90421C1CA367D900F74791 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				AB9042281CA367D900F74791 /* Assets.xcassets */,
+				AB90422A1CA367D900F74791 /* LaunchScreen.storyboard */,
+				AB90422D1CA367D900F74791 /* Info.plist */,
 				AB90421D1CA367D900F74791 /* main.m */,
 			);
 			name = "Supporting Files";
@@ -138,6 +227,77 @@
 				AB9042431CA367D900F74791 /* Info.plist */,
 			);
 			path = showRoomsUITests;
+			sourceTree = "<group>";
+		};
+		AB90424F1CA3680200F74791 /* photos */ = {
+			isa = PBXGroup;
+			children = (
+				AB9042501CA3680200F74791 /* carIcon25x25.png */,
+				AB9042511CA3680200F74791 /* ducati1.jpg */,
+				AB9042521CA3680200F74791 /* ducati2.jpg */,
+				AB9042531CA3680200F74791 /* ducati3.jpg */,
+				AB9042541CA3680200F74791 /* ducati4.jpg */,
+				AB9042551CA3680200F74791 /* ducati5.jpg */,
+				AB9042561CA3680200F74791 /* ducati6.jpg */,
+				AB9042571CA3680200F74791 /* DucatiLogo.png */,
+				AB9042581CA3680200F74791 /* DucatiLogo25x25.png */,
+				AB9042591CA3680200F74791 /* honda1.jpg */,
+				AB90425A1CA3680200F74791 /* honda2.jpg */,
+				AB90425B1CA3680200F74791 /* honda3.jpg */,
+				AB90425C1CA3680200F74791 /* honda4.jpg */,
+				AB90425D1CA3680200F74791 /* honda5.jpg */,
+				AB90425E1CA3680200F74791 /* honda6.jpg */,
+				AB90425F1CA3680200F74791 /* kawasaki1.jpg */,
+				AB9042601CA3680200F74791 /* kawasaki2.jpg */,
+				AB9042611CA3680200F74791 /* kawasaki3.jpg */,
+				AB9042621CA3680200F74791 /* kawasaki4.jpg */,
+				AB9042631CA3680200F74791 /* Lamborghini.png */,
+				AB9042641CA3680200F74791 /* LamborghiniLogo25x25.png */,
+				AB9042651CA3680200F74791 /* mercedes1.jpg */,
+				AB9042661CA3680200F74791 /* mercedes2.jpg */,
+				AB9042671CA3680200F74791 /* mercedes3.jpg */,
+				AB9042681CA3680200F74791 /* mercedes4.jpg */,
+				AB9042691CA3680200F74791 /* mercedes5.jpg */,
+				AB90426A1CA3680200F74791 /* mercedes6.jpg */,
+				AB90426B1CA3680200F74791 /* porsche1.jpg */,
+				AB90426C1CA3680200F74791 /* porsche2.jpg */,
+				AB90426D1CA3680200F74791 /* porsche3.jpg */,
+				AB90426E1CA3680200F74791 /* porsche4.jpg */,
+				AB90426F1CA3680200F74791 /* porsche5.jpg */,
+				AB9042701CA3680200F74791 /* VolkswagenLogo.png */,
+				AB9042711CA3680200F74791 /* VolkswagenLogo25x25.png */,
+				AB9042721CA3680200F74791 /* yahama1.jpg */,
+				AB9042731CA3680200F74791 /* yahama2.jpg */,
+				AB9042741CA3680200F74791 /* yahama3.jpg */,
+				AB9042751CA3680200F74791 /* yahama4.jpg */,
+				AB9042761CA3680200F74791 /* yahama5.jpg */,
+			);
+			name = photos;
+			path = MotorsAndCar;
+			sourceTree = "<group>";
+		};
+		AB90429E1CA3688A00F74791 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				AB9042A31CA368D400F74791 /* DataObject.plist */,
+				AB9042A51CA36AA900F74791 /* DataManager.h */,
+				AB9042A61CA36AA900F74791 /* DataManager.m */,
+				AB9042A01CA368BF00F74791 /* Object.h */,
+				AB9042A11CA368BF00F74791 /* Object.m */,
+			);
+			name = Models;
+			sourceTree = "<group>";
+		};
+		AB90429F1CA3689100F74791 /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+				AB9042251CA367D900F74791 /* Main.storyboard */,
+				AB9042A91CA3737900F74791 /* CarsViewController.h */,
+				AB9042AA1CA3737900F74791 /* CarsViewController.m */,
+				AB3C7B1F1CA8CF9E0095AE54 /* DetailsViewController.h */,
+				AB3C7B201CA8CF9E0095AE54 /* DetailsViewController.m */,
+			);
+			name = ViewController;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -246,9 +406,49 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AB9042981CA3680200F74791 /* VolkswagenLogo25x25.png in Resources */,
+				AB90428F1CA3680200F74791 /* mercedes4.jpg in Resources */,
+				AB9042931CA3680200F74791 /* porsche2.jpg in Resources */,
+				AB9042961CA3680200F74791 /* porsche5.jpg in Resources */,
+				AB90427B1CA3680200F74791 /* ducati4.jpg in Resources */,
+				AB9042801CA3680200F74791 /* honda1.jpg in Resources */,
+				AB90428D1CA3680200F74791 /* mercedes2.jpg in Resources */,
+				AB9042791CA3680200F74791 /* ducati2.jpg in Resources */,
+				AB9042771CA3680200F74791 /* carIcon25x25.png in Resources */,
+				AB9042891CA3680200F74791 /* kawasaki4.jpg in Resources */,
+				AB9042781CA3680200F74791 /* ducati1.jpg in Resources */,
+				AB9042911CA3680200F74791 /* mercedes6.jpg in Resources */,
+				AB90428B1CA3680200F74791 /* LamborghiniLogo25x25.png in Resources */,
+				AB9042881CA3680200F74791 /* kawasaki3.jpg in Resources */,
+				AB90428A1CA3680200F74791 /* Lamborghini.png in Resources */,
 				AB90422C1CA367D900F74791 /* LaunchScreen.storyboard in Resources */,
+				AB90428E1CA3680200F74791 /* mercedes3.jpg in Resources */,
+				AB90427E1CA3680200F74791 /* DucatiLogo.png in Resources */,
+				AB9042991CA3680200F74791 /* yahama1.jpg in Resources */,
+				AB9042831CA3680200F74791 /* honda4.jpg in Resources */,
+				AB90429D1CA3680200F74791 /* yahama5.jpg in Resources */,
+				AB90429A1CA3680200F74791 /* yahama2.jpg in Resources */,
 				AB9042291CA367D900F74791 /* Assets.xcassets in Resources */,
+				AB9042971CA3680200F74791 /* VolkswagenLogo.png in Resources */,
+				AB9042861CA3680200F74791 /* kawasaki1.jpg in Resources */,
+				AB9042951CA3680200F74791 /* porsche4.jpg in Resources */,
+				AB9042841CA3680200F74791 /* honda5.jpg in Resources */,
+				AB9042901CA3680200F74791 /* mercedes5.jpg in Resources */,
+				AB90427F1CA3680200F74791 /* DucatiLogo25x25.png in Resources */,
+				AB9042811CA3680200F74791 /* honda2.jpg in Resources */,
+				AB9042A41CA368D400F74791 /* DataObject.plist in Resources */,
+				AB9042921CA3680200F74791 /* porsche1.jpg in Resources */,
+				AB90429B1CA3680200F74791 /* yahama3.jpg in Resources */,
+				AB90427D1CA3680200F74791 /* ducati6.jpg in Resources */,
+				AB90428C1CA3680200F74791 /* mercedes1.jpg in Resources */,
+				AB9042851CA3680200F74791 /* honda6.jpg in Resources */,
+				AB90427C1CA3680200F74791 /* ducati5.jpg in Resources */,
+				AB9042941CA3680200F74791 /* porsche3.jpg in Resources */,
+				AB90429C1CA3680200F74791 /* yahama4.jpg in Resources */,
 				AB9042271CA367D900F74791 /* Main.storyboard in Resources */,
+				AB9042821CA3680200F74791 /* honda3.jpg in Resources */,
+				AB9042871CA3680200F74791 /* kawasaki2.jpg in Resources */,
+				AB90427A1CA3680200F74791 /* ducati3.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -273,7 +473,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AB9042241CA367D900F74791 /* ViewController.m in Sources */,
+				AB9042A21CA368BF00F74791 /* Object.m in Sources */,
+				AB9042A71CA36AA900F74791 /* DataManager.m in Sources */,
+				AB9042AB1CA3737900F74791 /* CarsViewController.m in Sources */,
+				AB3C7B211CA8CF9E0095AE54 /* DetailsViewController.m in Sources */,
 				AB9042211CA367D900F74791 /* AppDelegate.m in Sources */,
 				AB90421E1CA367D900F74791 /* main.m in Sources */,
 			);
@@ -499,6 +702,7 @@
 				AB9042481CA367D900F74791 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		AB9042491CA367D900F74791 /* Build configuration list for PBXNativeTarget "showRoomsTests" */ = {
 			isa = XCConfigurationList;
@@ -507,6 +711,7 @@
 				AB90424B1CA367D900F74791 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		AB90424C1CA367D900F74791 /* Build configuration list for PBXNativeTarget "showRoomsUITests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +720,7 @@
 				AB90424E1CA367D900F74791 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
